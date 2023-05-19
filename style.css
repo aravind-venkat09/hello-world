@@ -1,0 +1,27 @@
+/* Add desired styles for your website */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  form {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="text"] {
+    width: 300px;
+    padding: 5px;
+  }
+  
+  button[type="submit"] {
+    padding: 5px 10px;
+  }
+  
